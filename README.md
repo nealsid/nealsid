@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Thanks for checking out my Github.  My repos are projects at various stages in the lifecycle, and mostly incomplete.  If you're a prospective employer interested in projects that exhibit a reasonable degree of engineering standards, you might look at:
+
+- [C++ Parquet](https://github.com/nealsid/cpp-parquet)
+- [Croptastic](https://github.com/nealsid/croptastic) - No unit tests, but I paid attention to documentation, comments, and manual testing.
+- [Linked List](https://github.com/nealsid/linked-list) - Some experiments in multithreaded code with performance measurement infrastructure
+
+Some "passion projects" where I was more interested in learning something new are:
+
+- [RayTracer](https://github.com/nealsid/raytracer) - A ray tracer & Wavefront .OBJ loader written in Swift
+- [Buggeroo](https://github.com/nealsid/buggeroo) - A debugger written in Java that uses JDI
+- [Emacs Junk for Java](https://github.com/nealsid/ejj/blob/master/ejj.el) - Some elisp code for helping to write Java
+
+Additionally, I'm an LLDB contributor with several patches submitted this year.
+
 <!--
 **nealsid/nealsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
