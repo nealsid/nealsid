@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Thanks for checking out my Github.  My repos are projects at various stages in the lifecycle, and mostly incomplete.  If you're a prospective employer interested in projects that exhibit a reasonable degree of engineering standards, you might look at:
 
 - [C++ Parquet](https://github.com/nealsid/cpp-parquet) - A C++ library for writing Parquet files.
