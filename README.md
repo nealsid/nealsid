@@ -10,7 +10,7 @@ Some "passion projects" where I was more interested in learning something new ar
 - [Buggeroo](https://github.com/nealsid/buggeroo) - A debugger written in Java that uses JDI
 - [Emacs Junk for Java](https://github.com/nealsid/ejj/blob/master/ejj.el) - Some elisp code for helping to write Java
 
-Additionally, I'm an LLDB contributor with several patches submitted this year.
+Additionally, I'm an LLDB contributor with several patches submitted in 2021.
 
 <!--
 **nealsid/nealsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
