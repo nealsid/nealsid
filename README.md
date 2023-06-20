@@ -2,7 +2,7 @@ My repos are projects at various stages in the lifecycle, and mostly incomplete.
 
 - [C++ Parquet](https://github.com/nealsid/cpp-parquet) - A C++ library for writing Parquet files.
 - [Croptastic](https://github.com/nealsid/croptastic) - A JavaScript library to provide an image-cropping U.I.  There are no unit tests, but I paid attention to documentation, comments, and manual testing.
-- [Linked List](https://github.com/nealsid/linked-list) - Some experiments in multithreaded linked list code with performance measurement infrastructure.
+- [Linked List](https://github.com/nealsid/linked-list) - Some experiments in multithreaded & lock-free linked list code with performance measurement infrastructure.
 
 Some "passion projects" where I was more interested in learning something new are:
 
