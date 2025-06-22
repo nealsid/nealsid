@@ -4,13 +4,9 @@ My repos are projects at various stages in the lifecycle, and mostly incomplete.
 - [Croptastic](https://github.com/nealsid/croptastic) - A JavaScript library to provide an image-cropping U.I.  There are no unit tests, but I paid attention to documentation, comments, and manual testing.
 - [Linked List](https://github.com/nealsid/linked-list) - Some experiments in multithreaded & lock-free linked list code with performance measurement infrastructure.
 
-Some "passion projects" where I was more interested in learning something new are:
+Most recently (June, 2025) I've been contributing bug fixes to several Rust-related projects.  Additionally, I've made (smallish) open-source contributions to LLDB, Emacs, and the Linux Kernel.
 
-- [RayTracer](https://github.com/nealsid/raytracer) - A ray tracer & Wavefront .OBJ loader written in Swift
-- [Buggeroo](https://github.com/nealsid/buggeroo) - A debugger written in Java that uses JDI
-- [Emacs Junk for Java](https://github.com/nealsid/ejj/blob/master/ejj.el) - Some elisp code for helping to write Java
-
-Additionally, I've made (smallish) open-source contributions to LLDB, Emacs, and the Linux Kernel.
+Unfortunately (it's necessary to mention due to how public it is!), I have a very public criminal history, due to mental illness at the time, which I am in remission from today.  
 
 <!--
 **nealsid/nealsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
