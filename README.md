@@ -6,7 +6,7 @@ My repos are projects at various stages in the lifecycle, and mostly incomplete.
 
 Most recently (June, 2025) I've been contributing bug fixes to several Rust-related projects.  Additionally, I've made (smallish) open-source contributions to LLDB, Emacs, and the Linux Kernel.
 
-Unfortunately (it's necessary to mention due to how public it is!), I have a very public criminal history, due to mental illness at the time, which caused me to threaten Chief Justice Roberts.  I am in remission today.
+Unfortunately (it's necessary to mention due to how public it is!), I have a very public criminal history, due to mental illness at the time.  If you have any questions I am happy to answer them.
 
 <!--
 **nealsid/nealsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
