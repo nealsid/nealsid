@@ -6,7 +6,7 @@ My repos are projects at various stages in the lifecycle, and mostly incomplete.
 - [Croptastic](https://github.com/nealsid/croptastic) - A JavaScript library to provide an image-cropping U.I.  There are no unit tests, but I paid attention to documentation, comments, and manual testing.
 - [Linked List](https://github.com/nealsid/linked-list) - Some experiments in multithreaded & lock-free linked list code with performance measurement infrastructure.
 
-Most recently (June, 2025) I've been contributing bug fixes to several Rust-related projects.  Additionally, I've made (smallish) open-source contributions to LLDB, Emacs, and the Linux Kernel.
+Most recently (throughout 2025) I've been contributing to several Rust- and illumos- related projects.  Additionally, I've made (smallish) open-source contributions to LLDB, Emacs, and the Linux Kernel.
 
 Unfortunately (it's necessary to mention due to how public it is!), I have a very public criminal history, due to mental illness at the time.  If you have any questions I am happy to answer them.
 
