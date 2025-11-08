@@ -21,7 +21,7 @@ Unfortunately (it's necessary to mention due to how public it is!), I have a ver
     - [Fix typo in tree sitter configure flag and fix indentation in a patch](https://github.com/OpenIndiana/oi-userland/pull/22668)
     - [Updates to Emacs package](https://github.com/OpenIndiana/oi-userland/pull/22660)
   - [Rename BorrowFlag to BorrowCounter in Rust standard library](https://github.com/rust-lang/rust/pull/142216)
-  - [Remove duplicate/extra debug logic and clarify debugging output](https://github.com/rust-lang/rust/commit/718df66f4f2224efd25947ca32947998436dea88)
+  - [Rust: Remove duplicate/extra debug logic and clarify debugging output in standard library](https://github.com/rust-lang/rust/commit/718df66f4f2224efd25947ca32947998436dea88)
   - [Emacs tests for dolist](https://debbugs.gnu.org/cgi/bugreport.cgi?bug=79778)
  
 - 2023
