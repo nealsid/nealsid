@@ -1,4 +1,4 @@
-# Hello
+# Hello 👋
 
 My repos are projects at various stages in the lifecycle, and mostly incomplete.  If you're a prospective employer interested in projects that exhibit a reasonable degree of engineering standards, you might look at:
 
