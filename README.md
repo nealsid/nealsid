@@ -22,7 +22,7 @@ Unfortunately (it's necessary to mention due to how public it is!), I have a ver
     - [Updates to Emacs package](https://github.com/OpenIndiana/oi-userland/pull/22660)
   - [Rename BorrowFlag to BorrowCounter in Rust standard library](https://github.com/rust-lang/rust/pull/142216)
   - [Rust: Remove duplicate/extra debug logic and clarify debugging output in standard library](https://github.com/rust-lang/rust/commit/718df66f4f2224efd25947ca32947998436dea88)
-  - [Emacs tests for dolist](https://debbugs.gnu.org/cgi/bugreport.cgi?bug=79778)
+  - [Improve test coverage for dolist macro in Emacs](https://debbugs.gnu.org/cgi/bugreport.cgi?bug=79778)
  
 - 2023
   - [Linux Kernel WIFI Patch](https://git.rockylinux.org/staging/src-code/el9-upstream-kernel/-/commit/d24511d323902365bf4b3d861ae9a1d54a51081b)
