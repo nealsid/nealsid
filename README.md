@@ -8,7 +8,7 @@ My repos are projects at various stages in the lifecycle.  If you're a prospecti
 
 Most recently (throughout 2025) I've been contributing to several Rust- and illumos- related projects.  Additionally, I've made (smallish) open-source contributions to LLDB, Emacs, and the Linux Kernel.
 
-Unfortunately (it's necessary to mention due to how public it is!), I have a very public criminal history, due to mental illness at the time.  If you have any questions I am happy to answer them.
+Unfortunately (it's necessary to mention due to how public it is!), I have a very public criminal history, due to mental illness at the time.  I've been in remission for several years now; If you have any questions I am happy to answer them.
 
 # Open-source contributions
 
